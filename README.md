@@ -3,7 +3,7 @@ Defend the Galaxy in an Epic 2D Shooter
 
 [Play now](https://aqmer-aamir.itch.io/cosmic-chaos)
 
-![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE1NDY1MS8xMjcwMjMwNy5wbmc=/347x500/eF2lCK.png)
+![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE1NDY1MS8xMjcwMjMwNy5wbmc=/347x500/eF2lCK.png) ![Gameplay Screenshot](https://img.itch.zone/aW1hZ2UvMjE1NDY1MS8xMjcwMjMwOC5wbmc=/347x500/MV8Vep.png)
 
 ## Instructions:
 **Controls:** Use the  WASD keys to navigate your spacecraft across the screen. Aim with your mouse or joystick and click to fire.
