@@ -7,7 +7,9 @@ Defend the Galaxy in an Epic 2D Shooter
 
 ## Instructions:
 **Controls:** Use the  WASD keys to navigate your spacecraft across the screen. Aim with your mouse or joystick and click to fire.
+
 **Objective:** Destroy all alien enemies while avoiding their attacks. Survive until the end of each level to progress to the next.
+
 **Lives:** You start with 3 lives. Each time your spacecraft is destroyed, you lose a life. Keep an eye on your life display
 
 
